@@ -1,0 +1,63 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build output
+/build
+/dist
+/public/static
+
+# Environment variables
+.env
+.venv/
+env/
+venv/
+
+# Python specific files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Flask instance folder
+instance/
+
+# Flask cache
+.cache/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.pid
+*.sock
+
+# Database files
+*.sqlite3
+*.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Other OS generated files
+*.swp
+*~
+
+# Coverage reports
+coverage/
+htmlcov/
+
+# React specific
+npm-debug.log
